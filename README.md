@@ -46,7 +46,7 @@ These skills form the bedrock for understanding, developing, and critically revi
 
 ---
 
-## 🗺️ III. Transferable Research Roadmap Checklist
+## 🗺️ III. Transferable Research Roadmap Checklist.
 
 Follow this prioritized, multi-phase roadmap to build your research profile and prepare for advanced study, adaptable to any STEM major.
 
